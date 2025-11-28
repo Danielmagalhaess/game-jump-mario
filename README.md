@@ -9,6 +9,7 @@ Um projeto simples e divertido!
 ## 🎮 Demonstração
 
 👉 **Jogue agora:** https://danielmagalhaess.github.io/game-jump-mario/
+
 *(Abra em qualquer navegador moderno – não precisa instalar nada!)*
 
 ---
